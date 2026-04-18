@@ -9,3 +9,5 @@ Add an Additive Box.  Select the XY plane as the attachment.
 Add an Additive Torus.  Select the YZ plane as the attachment.
 
 The result doesn't look right.
+
+![This doesn't look right](Screenshot_20260418_060437.png)
